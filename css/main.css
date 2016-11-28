@@ -1,0 +1,39 @@
+.stadium {
+   background-image:url(stadium.jpg);
+   width:480px;
+   height:372px;
+}
+
+.s1 {
+   background-position:0px 0px;
+}
+
+.s2 {
+   background-position:-480px -372px;
+}
+
+
+body {
+  background-color: #8CEBFF;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+  background-color: #FFF;
+  padding: 20px 0;
+}
+
+@media screen and (max-width: 800px) {
+
+  body {
+     max-width: 100%;
+     margin: 0px auto;
+
+   }
+   article {
+      max-width: 100%;
+      border: none;
+    }
+
+}
