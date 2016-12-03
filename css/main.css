@@ -1,34 +1,68 @@
 .stadium {
    background-image:url(stadium.jpg);
-   width:480px;
-   height:372px;
+   width:160px;
+   height:124px;
+   float: left;
 }
 
-.s1 {
-   background-position:0px 0px;
+.s1 { background-position: 0 0;}
+.s2 { background-position: -160px 0; }
+.s3 { background-position: -320px 0 }
+
+.s4 { background-position: 0 -124px; }
+.s5 { background-position: -160px 248px; }
+.s6 { background-position: -320px 248px; }
+
+.s7 { background-position: 0 -248px; }
+.s8 { background-position: -160px -248px; }
+/*.s9 { background-position: -320px -248px; }*/
+
+.puzzleBox {
+ width: 480px;
+ height: 372px;
+ margin: auto;
+ border: 3px solid black;
+ background-color: white;
+ text-align: center;
 }
 
-.s2 {
-   background-position:-480px -372px;
+#orig {
+  width: 480px;
+  height: 372px;
+  margin: auto;
+  border: 3px solid white;
 }
 
+.row {
+   height:33.3%;
+}
+
+.cell {
+   width:32.3%;
+   height:100%;
+   float: left;
+   text-align: center;
+   font-size:150%;
+   font-family: Arial;
+   font-weight: bold;
+   position:relative;
+}
 
 body {
   background-color: #8CEBFF;
-  margin: 20px;
+  margin: auto;
 }
 
 header {
   text-align: center;
-  background-color: #FFF;
   padding: 20px 0;
 }
 
 @media screen and (max-width: 800px) {
 
   body {
-     max-width: 100%;
-     margin: 0px auto;
+     /*max-width: 100%;
+     margin: auto;*/
 
    }
    article {

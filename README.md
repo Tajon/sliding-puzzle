@@ -13,7 +13,16 @@ http://itekblog.com/css-magic-split-background-image-into-multiple-divs/
 
 Week 2
 
-What you did in week 2, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
+This week I was able to fix the image so that it not only is together but stays in formation even when the width of the browser changes. I was also able to make it so that each tile on the picture puzzle had its own cordinate for reference in the Javascript file. In addition, I was able to make it so that the tiles shuffle once the "shuffle" button is clicked. I was not able to make the actual tiles respond. I looked at several tutorials but was unsure how to make them work with the code I already had in place. Some of them also required outside files that I had no knowledge of or could not access.
+
+These are the resources I used
+http://www.multyshades.com/2012/09/creating-a-simple-sliding-puzzle-game-with-jquery/
+https://code.tutsplus.com/tutorials/create-an-html5-canvas-tile-swapping-puzzle--active-10747
+https://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
+https://codepen.io/dreamweaver1231/pen/EtzpI
+http://stackoverflow.com/questions/4306105/randomize-numbers-with-jquery
+https://www.sitepoint.com/randomizing-sliding-puzzle-tiles/
+https://www.bennadel.com/blog/1009-jquery-demo-creating-a-sliding-image-puzzle-plug-in.htm
 
 Week 3
 
