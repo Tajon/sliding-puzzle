@@ -18,7 +18,9 @@
       <h1>Sliding Picture Puzzle</h1>
     </header>
 
-  <div class="puzzleBox">
+    <div id = “target”></div>
+
+  <div class="puzzleBox" id="board">
     <!-- <h2> Try to show the stadium</h2> -->
     <div class="grid start">
       <div class= "row">
@@ -34,7 +36,7 @@
       <div class= "row">
         <div class="stadium s7" data-pos="2,0"><span></span></div>
         <div class="stadium s8" data-pos="2,1"><span></span></div>
-        <!-- <div class="stadium s9" id="empty" data-pos="2,2"><span></span></div> -->
+        <div class="stadium s9" id="empty" data-pos="2,2"><span></span></div>
       </div>
   </div>
 </div>
@@ -58,7 +60,9 @@
 </article>
 <!-- <footer>My name is Tajon Hinds. I made this sliding picture puzzle. Enjoy! </footer> -->
 
-    <script src="js/jquery.min.js"></script>
+
+      <script src="js/jquery-2.1.4.min.js"></script>
+      <script src="js/jquery-ui.min.js"></script>
   <script src="js/script.js"></script>
 </body>
 

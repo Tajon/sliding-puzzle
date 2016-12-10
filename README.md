@@ -26,7 +26,12 @@ https://www.bennadel.com/blog/1009-jquery-demo-creating-a-sliding-image-puzzle-p
 
 Week 3
 
-What you did in the third week, what you didn't do, etc. Include links to any libraries or tutorials you used. (Minimum: 50 words.)
+This week my task was to make the puzzle move but for some reason the tutorials that I have been using never do. I think it may be compatibility issues with the code because most times the author of the tutorial started a different from how I did. Because I am not getting any debugging error I am thinking that the issue comes from a selector not being properly referenced or a variable that is not filled. I've looked for youtube tutorials but have not found any specific to what I am doing. I also noticed this week that whenever I tried to incorporate code from a tutorial the shuffle button was would stop working.
+
+some of the resources I used
+http://www.multyshades.com/2012/09/creating-a-simple-sliding-puzzle-game-with-jquery/
+http://codereview.stackexchange.com/questions/101871/jquery-plugin-sliding-tile-puzzle
+
 
 Final summary of my project
 
