@@ -35,4 +35,4 @@ http://codereview.stackexchange.com/questions/101871/jquery-plugin-sliding-tile-
 
 Final summary of my project
 
-Your thoughts about the process of working on this project. (Minimum: 100 words.)
+I was not able to get just about everything but the actual interactivity part of my puzzle to cooperate. I underestimated how difficult the JavaScript/jQuery would be. Although it was ultimately unsuccessful this project taught me the importance of adapting someone else's idea into your own work. I will definitely be brushing up on everything this course taught me over the break while I have much more time to focus on it.

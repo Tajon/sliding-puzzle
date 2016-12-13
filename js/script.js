@@ -25,7 +25,7 @@ $(document).ready(function(){
         //^^ Code for shuffle
 
 //The code below was initially for a 4x4 grid. that had 128 px
-  {
+  // {
       var zi = 1;
       var EmptySquare = 9;
 

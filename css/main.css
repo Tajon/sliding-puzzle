@@ -20,6 +20,11 @@
   height:124px;
       background-color: #FFF;}
 
+#target{
+  background-color: #FFF;
+   width:160px;
+   height:124px;}
+
 .puzzleBox {
  width: 480px;
  height: 372px;
